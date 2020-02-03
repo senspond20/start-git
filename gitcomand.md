@@ -12,20 +12,25 @@
 
     폴더를 보고 싶다면, 보기에서 숨겨진 파일 보기를 체크하세요.
 
+    
+    ```
+    $git add .
+    ```
 
     ```
     $git status
     ```
     현재 파일들의 상태를 볼 수 있습니다
 
+   
+    ```
+    $git remote add origin "URL"
+    ```
+    
     ```
     $git remote -v
     ```
     
-    ```
-    $git remote add origin "URL"
-    ```
-
     ```
     $git push origin master
     ```
