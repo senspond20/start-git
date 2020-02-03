@@ -6,7 +6,9 @@
     +  Color Thema : 테마 변경
     +  Color Customizations : setting.json 클릭
 
+![VSCODE](https://user-images.githubusercontent.com/60596128/73672608-8e32a300-46f0-11ea-9a6e-b40b6a434f53.png)
 
+위 테마 코드는 아래와 같습니다.
 ```c
 // setting.json
 {
