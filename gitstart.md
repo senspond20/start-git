@@ -9,6 +9,9 @@
     + 설치가 완료되면 실행 -> Git Bash / 터미널 창을 엽니다.
     
     ```git
+    $ git init
+    ```
+    ```git
     $ git config --global user.name "유저명"
     $ git config --global user.email 이메일주소
     ```
