@@ -26,21 +26,25 @@
     ```
     
     + add 
+    
     ```
     $git add . | file
     ```
 
     + 현재 파일들의 상태보기.
+    
     ```
     $git status
     ```
     
     + commit
+    
     ```
     $commit -m "ㅇㄹㅇㄹㅇ"
     ```
     
     + push
+    
     ```
     $git push origin master
     ```
