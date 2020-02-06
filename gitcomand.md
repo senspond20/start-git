@@ -49,4 +49,8 @@
     $git push origin master
     ```
 
+    + pull
+    ```
+    $git pull
+    ```
 
