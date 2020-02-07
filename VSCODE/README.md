@@ -4,11 +4,13 @@
 
 [vscode-테마변경](#-vscode-개인설정-)
 
-
+---------------------------------------
 
 
 ## VSCODE 에서 git 과 연동하기
----------------------------------------
+
+[back](#vscode-사용법)
+
 + ## VSCODE 소스제어
 
 ![step01](https://github.com/senspond20/image/blob/master/VSCODE/step01.png)
@@ -58,6 +60,8 @@
 
 ## <font color ="#1fds"> VSCODE 개인설정 </font>
 
+[back](#vscode-사용법)
+
 ## + 테마 설정
 
 + ## Ctrl + , workbench 입력
@@ -103,4 +107,4 @@
 }
 
 ```
-
+[back](#vscode-사용법)
