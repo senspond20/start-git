@@ -9,8 +9,6 @@
 
 ## VSCODE 에서 git 과 연동하기
 
-[back](#vscode-사용법)
-
 + ## VSCODE 소스제어
 
 ![step01](https://github.com/senspond20/image/blob/master/VSCODE/step01.png)
