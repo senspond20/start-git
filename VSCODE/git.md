@@ -27,7 +27,7 @@ VSCODE 에서 git 과 연동하기
 ![step06](https://github.com/senspond20/image/blob/master/VSCODE/step06.png)
 
 
-+ ## 분기하고 푸싱
++ ## 분기/푸싱
 ![step07](https://github.com/senspond20/image/blob/master/VSCODE/step07.png)
 
 ![step07](https://github.com/senspond20/image/blob/master/VSCODE/step08.png)
