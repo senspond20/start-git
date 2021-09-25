@@ -15,5 +15,27 @@
     $ git config --global user.name "유저명"
     $ git config --global user.email 이메일주소
     ```
+    
+    
++ ## 원격저장소의 node_modules 제거하기
 
+### 원격저장소,로컬저장소에서 삭제하기
+```
+git rm 파일명
+git rm -r 폴더명
+```
+### 원격저장소에서만 삭제하기
+```
+git rm --cached 파일명
+git rm --cached -r 폴더명
+```
+
+> 옵션 설명
++ --cached: 원격저장소만 해당
++ -r: recursive(재귀적으로), 디렉토리와 하위 내용 삭제 - 그 외 옵션들
+
+> 사용법
+```
+git rm --cached -r node_modules
+```
 
